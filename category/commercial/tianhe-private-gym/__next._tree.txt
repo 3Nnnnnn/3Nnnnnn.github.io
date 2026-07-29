@@ -1,5 +1,3 @@
-:HL["/_next/static/chunks/0hxheaob-4z.i.css","style"]
+:HL["/_next/static/chunks/0t53~qfj08blc.css","style"]
 :HL["/logo-wordmark.png","image"]
-:HL["/portfolio/commercial/page-51.jpg","image"]
-:HL["/portfolio/commercial/page-52.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"category","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"commercial","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"project","param":{"type":"d","key":"tianhe-private-gym","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"sh7WCHTI6r_0Z0jnvgjUR"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"category","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"commercial","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"project","param":{"type":"d","key":"tianhe-private-gym","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"KTnvbngKcm46WH44tZ9rR"}
