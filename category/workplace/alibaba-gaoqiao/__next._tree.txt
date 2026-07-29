@@ -1,0 +1,5 @@
+:HL["/_next/static/chunks/0hxheaob-4z.i.css","style"]
+:HL["/logo-wordmark.png","image"]
+:HL["/portfolio/workplace/page-018.jpg","image"]
+:HL["/portfolio/workplace/page-019.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"category","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"workplace","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"project","param":{"type":"d","key":"alibaba-gaoqiao","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"sh7WCHTI6r_0Z0jnvgjUR"}
