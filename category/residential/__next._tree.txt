@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/0t53~qfj08blc.css","style"]
+:HL["/_next/static/chunks/0xg309xep.tf..css","style"]
 :HL["/logo-wordmark.png","image"]
 :HL["/project-images/residential/first-grade-jade/01.jpg","image"]
 :HL["/project-images/residential/cr-land-center/01.jpg","image"]
@@ -14,4 +14,4 @@
 :HL["/project-images/residential/crown-prince/01.jpg","image"]
 :HL["/project-images/residential/jiangmen-jiuyun/01.jpg","image"]
 :HL["/project-images/residential/shenzhen-jiuyao/01.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"category","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"residential","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"KTnvbngKcm46WH44tZ9rR"}
+0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"category","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"residential","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"lDKmeSypYQS_eBC-6o5kU"}

@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/0t53~qfj08blc.css","style"]
+:HL["/_next/static/chunks/0xg309xep.tf..css","style"]
 :HL["/logo-wordmark.png","image"]
 :HL["/project-images/commercial/causeway-bay-clubhouse/01.jpg","image"]
 :HL["/project-images/commercial/sunshine-city-tea-cellar/01.jpg","image"]
@@ -13,4 +13,4 @@
 :HL["/project-images/commercial/uhot-fashion-week/01.jpg","image"]
 :HL["/project-images/commercial/shiyi-dessert-shop/01.jpg","image"]
 :HL["/project-images/commercial/tianhe-private-gym/01.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"category","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"commercial","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"KTnvbngKcm46WH44tZ9rR"}
+0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"category","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"commercial","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"lDKmeSypYQS_eBC-6o5kU"}
