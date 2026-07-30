@@ -1,3 +1,3 @@
-:HL["/_next/static/chunks/0x-2b2zktsec1.css","style"]
+:HL["/_next/static/chunks/0o55fhvieud4i.css","style"]
 :HL["/logo-wordmark.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"category","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"residential","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"project","param":{"type":"d","key":"cr-land-center","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"uM78FmJo5p7ioFVI5-lHB"}
+0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"category","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"residential","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"project","param":{"type":"d","key":"cr-land-center","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"V5XmkCRm23_wHjtArTkRy"}
