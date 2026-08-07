@@ -1,3 +1,4 @@
-:HL["/_next/static/chunks/0fcwf63~lg3ug.css","style"]
+:HL["/_next/static/chunks/0pder~--52kp~.css","style"]
+:HL["/logo-mark.png","image"]
 :HL["/logo-wordmark.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"category","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"workplace","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"project","param":{"type":"d","key":"hahaland","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"1jK0GObfmlb6UAZ5KgF8b"}
+0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"category","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"workplace","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"project","param":{"type":"d","key":"hahaland","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"1BCeotvbbEo80sKynLOG8"}
